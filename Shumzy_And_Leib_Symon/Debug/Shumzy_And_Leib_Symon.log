@@ -1,4 +1,5 @@
 ﻿  Main.cpp
-C:\Users\uri knoll\Documents\GitHub\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Main.cpp(60,25): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
-C:\Users\uri knoll\Documents\GitHub\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Main.cpp(66,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
-  Shumzy_And_Leib_Symon.vcxproj -> C:\Users\uri knoll\Documents\GitHub\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Debug\Shumzy_And_Leib_Symon.exe
+C:\Users\מחשב1\Documents\uri\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Main.cpp(70,25): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\מחשב1\Documents\uri\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Main.cpp(78,25): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+C:\Users\מחשב1\Documents\uri\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Main.cpp(84,33): warning C4244: '=': conversion from 'wint_t' to 'char', possible loss of data
+  Shumzy_And_Leib_Symon.vcxproj -> C:\Users\מחשב1\Documents\uri\Shumzy-Leib-Symon\Shumzy_And_Leib_Symon\Debug\Shumzy_And_Leib_Symon.exe
