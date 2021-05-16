@@ -1,0 +1,10 @@
+- make duty cycle a const
+- make song more abstract - funcs for turning on and off,
+	dict for notes?
+- const file instead of beginning of file?
+- add to github
+- documentaion
+- add speed option
+bonus:
+* make clicking be threaded so you can type as fast as you like.
+needs buffering though.
